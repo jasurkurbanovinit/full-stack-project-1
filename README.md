@@ -8,6 +8,9 @@ Web-Front: React
 Mobile-Front: React Native 
 Backend: NodeJS(Express)
 
+UI
+![home](https://user-images.githubusercontent.com/41279178/101595124-b7107c80-3a14-11eb-80d5-eb378d57795b.png)
+
 https://strapi.io/blog/nextjs-react-hooks-strapi-food-app-1
 
 Screen Home
